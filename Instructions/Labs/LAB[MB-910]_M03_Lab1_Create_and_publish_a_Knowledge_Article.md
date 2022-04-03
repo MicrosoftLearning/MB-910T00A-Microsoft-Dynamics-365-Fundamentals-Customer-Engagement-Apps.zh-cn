@@ -2,12 +2,12 @@
 lab:
   title: 实验室 3.1：在 Dynamics 365 Customer Service 中创建和发布知识文章
   module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
-ms.openlocfilehash: 3133819d99d9fbb317b731db313b1df7bcf8ebba
-ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.openlocfilehash: accc3885619d7949364937badba113de68163ce7
+ms.sourcegitcommit: 20016ceee38b42fe1b81573e65ab9cdb0d17eba2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137908793"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "141141997"
 ---
 <a name="module-3-learn-the-fundamentals-of-dynamics-365-customer-service"></a>模块 3：了解 Dynamics 365 Customer Service 的基础知识
 ========================
@@ -26,9 +26,9 @@ ms.locfileid: "137908793"
 
 3. 选择“我的活动文章”旁边的下拉箭头，轻松查看处于不同阶段的文章。 
 
-4. 选择“草稿文章”视图。 
+4. 选择“草稿文章”。 此时可能会看到有两篇文章处于草稿模式。
 
-5. 选择“已审批的文章”。 
+5. 选择“已审批的文章”。 此时应该会看到至少一篇已审批的文章。  
 
 6. 切换回“我的活动文章”
 
@@ -60,9 +60,9 @@ ms.locfileid: "137908793"
 
     5. 选择“打印”
 
-我们收到退回/损坏的商品后，会向你的帐户返还金额。
+    我们收到退回/损坏的商品后，会向你的帐户返还金额。
 
-**注意：** 你可以根据需要在文本中添加格式。 
+    **注意：** 你可以根据需要在文本中添加格式。 
 
 10. 在“命令栏”上，选择“保存”按钮，保存知识文章并使其保持打开状态 。 
 
@@ -115,5 +115,7 @@ ms.locfileid: "137908793"
     - 到期状态：已过期
 
     - 发布已审批的翻译：否
+    
+29. 单击“发布”按钮，发布文章。
 
 
