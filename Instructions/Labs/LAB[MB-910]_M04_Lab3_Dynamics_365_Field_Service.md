@@ -2,12 +2,12 @@
 lab:
   title: 实验室 4.3：Dynamics 365 现场服务巅峰课程实验室
   module: 'Module 4: Learn the Fundamentals of Dynamics 365 Field Service'
-ms.openlocfilehash: f3a0b281cf2f6b342b789bffa977d57de8b9dcf6
-ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.openlocfilehash: 6bddf66b1b4e4c11941e5b1f4b3c64e0ff5cbf8c
+ms.sourcegitcommit: 72aae532f6c367bd6e48570b827f7289171f2b31
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137908789"
+ms.lasthandoff: 04/11/2022
+ms.locfileid: "141605545"
 ---
 <a name="module-4-learn-the-fundamentals-of-dynamics-365-field-service"></a>模块 4：了解 Dynamics 365 Field Service 的基础知识
 ========================
@@ -98,7 +98,7 @@ ABC 公司的销售人员需要具有必要的工具、资源和指导（无论�
 
  
 
-### <a name="task-2-manually-create-a-word-order"></a>任务 2：手动创建工作订单
+### <a name="task-2-manually-create-a-work-order"></a>任务 2：手动创建工作订单
 
 我们稍后将返回你已创建的案例记录。 接下来，让我们看看如何手动创建工作订单记录。 
 
