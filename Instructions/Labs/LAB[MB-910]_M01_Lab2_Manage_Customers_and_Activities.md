@@ -2,13 +2,8 @@
 lab:
   title: 实验室 1.2：管理客户和活动
   module: 'Module 1: Examine the core capabilities of Dynamics 365 (CRM)'
-ms.openlocfilehash: 886e0800f6747542fcd83ade072fb312ad922de4
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: zh-CN
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404929"
 ---
+
 <a name="module-1-examine-the-core-capabilities-of-dynamics-365-crm"></a>模块 1：检查 Dynamics 365 的核心功能 (CRM)
 ========================
 
@@ -16,7 +11,7 @@ ms.locfileid: "144404929"
 
 ## <a name="objectives"></a>目标
 
-在 Dynamics 365 应用程序中定义帐户和联系人记录以及使用这些记录是将执行的最常见的活动之一。 创建帐户和联系人后，打电话、分配任务和预约等活动将代表你与客户进行的互动。
+Defining and working with account and contact records in Dynamics 365 applications is one of the most common activities you will do. Once accounts and contacts are created, activities such as phone calls, tasks, and appointments will represent the interactions that you have with your customers.
 
 ## <a name="lab-setup"></a>实验室教学设置
 

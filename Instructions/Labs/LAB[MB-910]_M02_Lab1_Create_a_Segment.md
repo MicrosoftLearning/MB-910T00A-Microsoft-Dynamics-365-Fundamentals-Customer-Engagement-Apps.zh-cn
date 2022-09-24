@@ -2,13 +2,8 @@
 lab:
   title: 实验室 2.1：在 Dynamics 365 Marketing 中创建客户细分
   module: 'Module 2: Learn the Fundamentals of Dynamics 365 Marketing'
-ms.openlocfilehash: 40c22a4ed1c45da04a0f1a686be6f8fa16b09a69
-ms.sourcegitcommit: 5d822ceab64fbb8615808dcdebeff848eec6ee25
-ms.translationtype: HT
-ms.contentlocale: zh-CN
-ms.lasthandoff: 09/06/2022
-ms.locfileid: "147855069"
 ---
+
 <a name="module-2-learn-the-fundamentals-of-dynamics-365-marketing"></a>模块 2：学习 Dynamics 365 Marketing 的基础知识
 ========================
 
@@ -16,7 +11,7 @@ ms.locfileid: "147855069"
 
 ## <a name="objectives"></a>目标
 
-在本练习中，你会发现，可以非常容易地根据共同的人口统计信息（例如他们的住所或兴趣）来创建针对特定联系人的客户细分。 在 Dynamics 365 Marketing 中创建客户细分非常普遍，因为客户细分用于关键的营销活动，例如在客户旅程中定义目标联系人。
+During this exercise you will see that it is very easy to create customer segments that target specific contacts based on common demographic information such as where they live or interests. The creation on customer segments in Dynamics 365 Marketing is extremely common because customer segments are used for key marketing activities such as defining the target contacts in Customer Journeys.
 
 ## <a name="lab-setup"></a>实验室教学设置
 
@@ -27,7 +22,7 @@ ms.locfileid: "147855069"
 
 1. 使用左侧导航栏，选择“营销”下的“细分”。  
 
-2. 在命令栏上，选择“新建”。
+2. 在命令栏上，选择“新建”****。
 
 3. 在显示的下拉菜单中，选择“新建动态细分”。
 
