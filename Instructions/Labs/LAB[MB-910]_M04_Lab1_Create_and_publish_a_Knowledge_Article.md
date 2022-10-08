@@ -2,13 +2,8 @@
 lab:
   title: 实验室 4.1：在 Dynamics 365 Customer Service 中创建和发布知识文章
   module: 'Module 4: Learn the Fundamentals of Dynamics 365 Customer Service'
-ms.openlocfilehash: 2e2c5b6947bb5b366c0daba9d37518981662b28b
-ms.sourcegitcommit: 5d822ceab64fbb8615808dcdebeff848eec6ee25
-ms.translationtype: HT
-ms.contentlocale: zh-CN
-ms.lasthandoff: 09/06/2022
-ms.locfileid: "147855080"
 ---
+
 <a name="module-4-learn-the-fundamentals-of-dynamics-365-customer-service"></a>模块 4：学习 Dynamics 365 Customer Service 的基础知识
 ========================
 
@@ -24,11 +19,11 @@ ms.locfileid: "147855080"
 
 2. 使用屏幕左侧的导航，选择“知识文章”。 
 
-3. 选择“我的活动文章”旁边的下拉箭头，轻松查看处于不同阶段的文章。 
+3. 选择“我的活动文章”旁边的下拉箭头，轻松查看处于不同阶段的文章。 请注意，列表中可能没有任何活动文章。
 
 4. 选择“草稿文章”。 
 
-5. 选择“已审批的文章”。 此时应该会看到至少一篇已审批的文章。  
+5. 选择“已审批的文章”。 
 
 6. 切换回“我的活动文章”
 
