@@ -11,7 +11,7 @@ lab:
 
 ## <a name="objectives"></a>目标
 
-During this exercise, you will be manually capturing a sales opportunity for an existing customer named Jim Glynn. He works for a company called Adventure Work. Not only will you be capturing the opportunity in the system, but you will be using the tools available in Dynamics 365 Sales to work through and close the opportunity.
+在本练习中，你将为名为 Jim Glynn 的现有客户手动捕获销售机会。 他就职于一家名为 Adventure Work 的公司。 你不仅将在系统中捕获机会，还将使用 Dynamics 365 Sales 中的工具来完成并关闭机会。
 
 
 ## <a name="lab-setup"></a>实验室教学设置
@@ -66,11 +66,11 @@ During this exercise, you will be manually capturing a sales opportunity for an 
 
 12. 在“利益干系人”子网格中，注意 Suzanne Burke 已定义为利益干系人。 
 
-13. On the Sales Team sub-grid, select the <bpt id="p1">**</bpt>Vertical Ellipsis<ept id="p1">**</ept>. From the menu that appears select <bpt id="p1">**</bpt>New Connection<ept id="p1">**</ept>. 
+13. 在“销售团队”子网格中，选择“垂直省略号”。 在显示的菜单中，选择“新建连接”。 
 
-14. Search for and select your user record. Once completed, select the <bpt id="p1">**</bpt>Add<ept id="p1">**</ept> button. 
+14. 搜索并选择用户记录。 完成后，选择“添加”按钮。 
 
-15. On the Competitors sub-grid, select the <bpt id="p1">**</bpt>Vertical Ellipsis<ept id="p1">**</ept>. From the menu that appears select <bpt id="p1">**</bpt>Add Existing Competitor<ept id="p1">**</ept>. 
+15. 在“竞争对手”子网格中，选择“垂直省略号”。 在显示的菜单中，选择“添加现有竞争对手”。 
 
 16. 在“查找记录”屏幕上，选择“新建记录”，然后选择“竞争对手”  。
 
@@ -78,7 +78,7 @@ During this exercise, you will be manually capturing a sales opportunity for an 
 
 18. 选择“保存并关闭”按钮。
 
-19. <bpt id="p1">**</bpt>Coho Technologies<ept id="p1">**</ept> should be selected in the lookup record window. Select the <bpt id="p1">**</bpt>Add<ept id="p1">**</ept> button to finishing adding the competitor. 
+19. 应在查找记录窗口中选择“Coho Technologie”s。 选择“添加”按钮，完成竞争对手的添加。 
 
 20. 在“潜在客户到机会”业务流程流中选择“开发”阶段，将“确定利益干系人”和“确定竞争对手”步骤设置为“已完成”    。 
 
@@ -92,6 +92,6 @@ During this exercise, you will be manually capturing a sales opportunity for an 
 
 25. 单击“完成”按钮。**** 
 
-26. 在本练习中，你将为名为 Jim Glynn 的现有客户手动捕获销售机会。 
+26. 现在你已经完成了业务流程，接下来需要关闭机会。 在机会的“命令栏”上，选择“中标关闭”按钮 。 
 
 27. 在“关闭机会”屏幕上，选择“确定”按钮来关闭机会记录 。 

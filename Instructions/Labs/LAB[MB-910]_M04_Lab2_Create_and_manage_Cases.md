@@ -49,15 +49,15 @@ lab:
 
 14. 选择“研究”阶段弹出窗口中的“X”，移除窗口，以便继续工作 。 
 
-15. On the right side of the case screen, locate and select the <bpt id="p1">**</bpt>Knowledge<ept id="p1">**</ept> book Icon. (It will be directly below the <bpt id="p1">**</bpt>wrench<ept id="p1">**</ept> icon).
+15. 在案例屏幕的右侧，找到并选择“知识”书本图标。 （它位于扳手图标的正下方）。
 
-16. Notice that the title of the case you created is automatically provided as the search text. Locate and select the <bpt id="p1">**</bpt>Item Broken on Arrival<ept id="p1">**</ept> article you created earlier. 
+16. 注意，你创建的案例的标题会自动提供为搜索文本。 找到并选择你先前创建的“商品到达时破损”文章。 
 
-17. The full contents of the article will be displayed, select the <bpt id="p1">**</bpt>Link this article to the current record<ept id="p1">**</ept> icon. Verify that the text <bpt id="p1">**</bpt>Linked to Case<ept id="p1">**</ept> appears. 
+17. 此时将显示文章的全部内容，请选择“将此文章链接到当前记录”图标。 验证是否出现“已链接到案例”文本。 
 
-18. Now we will get ready to resolve the case. On the <bpt id="p1">**</bpt>Record Timeline<ept id="p1">**</ept>, hover over the <bpt id="p2">**</bpt>Return call to Patrick<ept id="p2">**</ept> Phone Call activity you created earlier. Select the mark complete <bpt id="p1">**</bpt>Check Mark Icon<ept id="p1">**</ept> to complete the activity. 
+18. 现在，我们将准备解决案例。 在“记录日程表”上，将鼠标悬停在你先前创建的“回电 Patrick”电话呼叫活动上。 选择“标记为完成”复选标记图标，完成活动。 
 
-19. On the <bpt id="p1">**</bpt>Close Phone Call<ept id="p1">**</ept> screen, select the <bpt id="p2">**</bpt>Close<ept id="p2">**</ept> button. Verify the activity says <bpt id="p1">**</bpt>Closed<ept id="p1">**</ept>. 
+19. 在“关闭电话呼叫”屏幕上，选择“关闭”按钮 。 验证活动是否显示“已关闭”。 
 
 20. 在“电话提交案例流程”中，选择“研究”阶段，选择“下一阶段”按钮，进入“解决”阶段   。 
 

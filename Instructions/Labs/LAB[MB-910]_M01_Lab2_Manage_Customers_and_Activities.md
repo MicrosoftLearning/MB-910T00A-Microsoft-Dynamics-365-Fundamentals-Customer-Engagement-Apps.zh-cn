@@ -11,7 +11,7 @@ lab:
 
 ## <a name="objectives"></a>目标
 
-Defining and working with account and contact records in Dynamics 365 applications is one of the most common activities you will do. Once accounts and contacts are created, activities such as phone calls, tasks, and appointments will represent the interactions that you have with your customers.
+在 Dynamics 365 应用程序中定义帐户和联系人记录以及使用这些记录是将执行的最常见的活动之一。 创建帐户和联系人后，打电话、分配任务和预约等活动将代表你与客户进行的互动。
 
 ## <a name="lab-setup"></a>实验室教学设置
 

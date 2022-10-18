@@ -13,7 +13,7 @@ lab:
 
   - 预计用时：20 分钟
 
-  <bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> The Booking Requirements pane cannot be opened in Internet Explorer. Please use Microsoft Edge or Google Chrome to complete this exercise.
+  **注意：** 无法在 Internet Explorer 中打开“预定要求”窗格。 请使用 Microsoft Edge 或 Google Chrome 完成本练习。
   
 ## <a name="instructions"></a>Instructions
 
@@ -27,41 +27,43 @@ lab:
     - 服务帐户：ADatum Corporation
     - 主要事件类型：核磁共振扫描仪关闭
     - 应纳税：否
+    - 选择“保存并关闭”，保存更改，退出新的工作订单。
+    - 在工作订单的命令栏上，选择“预定”按钮。  
     
-5.  选择“保存并关闭”，保存更改，退出新的工作订单。
+5.  这将打开计划助手。
 
-6.  On the <bpt id="p1">**</bpt>Command Bar<ept id="p1">**</ept> of the <bpt id="p2">**</bpt>Work Order<ept id="p2">**</ept>, select the <bpt id="p3">**</bpt>Book<ept id="p3">**</ept> button.  This will open the <bpt id="p1">**</bpt>Schedule Assistant<ept id="p1">**</ept>.  
+6.  系统应会向你提供用于计划项的选项。  选择“Ryan Brim”记录。  
 
-7.  You should be presented with options for scheduling the item.  Select the <bpt id="p1">**</bpt>Ryan Brim<ept id="p1">**</ept> record.
+7.  在“创建资源预定”窗口中，将“开始时间”设置为“下一个整点”  。  将“结束时间”设置为此后的 2.5 小时。
 
-8.  在“创建资源预定”窗口中，将“开始时间”设置为“下一个整点”  。
+8.  选择“预定并退出”按钮，预定项目并退出“计划”窗口。
 
-9.  将“结束时间”设置为此后的 2.5 小时。  
+9.  返回工作订单后，从命令栏单击“保存并关闭”按钮 。  
 
-10. 选择“预定并退出”按钮，预定项目并退出“计划”窗口。  
+10. 使用左侧导航栏，选择“计划板”。  
 
-11. 返回工作订单后，从命令栏单击“保存并关闭”按钮 。  
+11. 在“需求”面板的屏幕底部，选择“未计划的工作订单”。  
 
-12. 使用左侧导航栏，选择“计划板”。
+12. 使用你之前记下的工作订单编号选择“冒险工作”工作订单。
 
-13. 在“需求”面板的屏幕底部，选择“未计划的工作订单”。
+13. 从显示的选项中，选择“查找可用性”。
 
-14. Select the <bpt id="p1">**</bpt>Adventure Works<ept id="p1">**</ept> Work Order you created earlier use the work order number you wrote down. From the options that appear select <bpt id="p1">**</bpt>Find Availability<ept id="p1">**</ept>.  
+14. 这将打开计划助手。 系统应会向你提供用于计划项的选项。  
 
-15. 这将打开计划助手。  
+15. 选择 Bob Kozak 记录。  
 
-16. You should be presented with options for scheduling the item.  Select the Bob Kozak record.
+16. 在“创建资源预定”窗口中，将“开始时间”设置为“下一个整点”  。  将“结束时间”设置为此后的 2.5 小时。
 
-17. 在“创建资源预定”窗口中，将“开始时间”设置为“下一个整点”  。
+17. 选择“预定并退出”按钮，预定项目并退出“计划”窗口。
 
-18. 将“结束时间”设置为此后的 2.5 小时。
+18. 有时，由于技术员冲突或其他项，可能需要重新计划工作订单。
   
-19. 选择“预定并退出”按钮，预定项目并退出“计划”窗口。 
+19. 调度员通过利用计划板可以轻松解决此问题。 
 
-20. At times, you may need to reschedule a work order based on technician conflicts or other items.  This can be easily done by dispatchers leveraging the schedule board.  
+20. 单击计划板上的“搜索资源”框（位于“资源名称”列正上方），输入“Ryan”，找到今天稍后为 Ryan 计划的工作订单。  右键单击工作订单，从显示的菜单中，选择“替换资源”，选择“查找替换”按钮 。  
 
-21. 单击计划板上的“搜索资源”框（位于“资源名称”列正上方），输入“Ryan”，找到今天稍后为 Ryan 计划的工作订单。  
+21. Click in search resources box on the schedule board (Located right above the resource name column), enter Ryan and locate the work order that is scheduled for Ryan later today.  
 
-22. 右键单击工作订单，从显示的菜单中，选择“替换资源”，选择“查找替换”按钮 。
+22. Right-click on the work order, and from the menu that appears, select <bpt id="p1">**</bpt>Substitute Resource<ept id="p1">**</ept>, select the <bpt id="p2">**</bpt>Find Substitution<ept id="p2">**</ept> button.
 
 
