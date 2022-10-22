@@ -11,7 +11,7 @@ lab:
 
 ## <a name="objectives"></a>目标
 
-During this exercise you will see that Customer Journeys are a key component in Dynamics 365 Marketing. You will create customer journeys as a basis for any marketing effort to guide the path a customer takes while interacting with your organization's marketing process. The goal of the journey, when it is complete, is to turn them into revenue.
+在本练习中，你将了解客户旅程是 Dynamics 365 Marketing 的关键组成部分。 你将创建客户旅程，将其作为任何营销工作的基础，以指导客户在与组织的营销流程进行交互时所采用的路径。 旅程的目标是在旅程完成后将其转化为收益。
 
 ## <a name="lab-setup"></a>实验室教学设置
 
@@ -19,7 +19,7 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 ## <a name="instructions"></a>Instructions
 
-<bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> Marketing Emails cannot be created or edited in Internet Explorer. Please use Microsoft Edge or Google Chrome to complete this exercise.
+**注意：** 无法在 Internet Explorer 中创建或编辑营销电子邮件。 请使用 Microsoft Edge 或 Google Chrome 完成本练习。
 
 **注意：** 在创建客户旅程之前，我们需要确保拥有可添加到客户旅程中的有效电子邮件。 
 
@@ -35,15 +35,15 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 6. 使用命令栏，选择“新建”。
 
-7. The <bpt id="p1">**</bpt>New Customer Journey<ept id="p1">**</ept> page opens with the <bpt id="p2">**</bpt>Select a Customer Journey Template<ept id="p2">**</ept> dialog box shown. Select <bpt id="p1">**</bpt>Skip<ept id="p1">**</ept> to start creating the journey from scratch.
+7. “新建客户旅程”页面将打开，并显示“选择客户旅程模板”对话框。 选择“跳过”，以开始从头创建旅程。
 
-8. Select <bpt id="p1">**</bpt>Set audience<ept id="p1">**</ept> (or, alternatively, select <bpt id="p2">**</bpt><ph id="ph1">+</ph><ept id="p2">**</ept>). Select the Redmond Customers segment that you created in the previous exercise. The first tile populates with the segment name and the <bpt id="p1">**</bpt>Audience<ept id="p1">**</ept> pane displays the segment properties.
+8. 选择“设置受众”（或选择“+”）。  选择在上一练习中创建的“雷德蒙客户”细分。 第一个磁贴使用细分名称进行填充，“受众”窗格将显示细分属性。
 
 9. 在画布上选择“+”，然后从上下文菜单中选择“发送电子邮件” 。
 
 10. 选择你之前激活的“椅子简介”电子邮件。 
 
-11. Select the <bpt id="p1">**</bpt>General<ept id="p1">**</ept> tab located towards the top of the Customer Journey Record. Enter the following information into the <bpt id="p1">**</bpt>General<ept id="p1">**</ept> tab:
+11. 选择位于客户旅程记录顶部的“常规”选项卡。 在“常规”选项卡中输入以下信息：
 
     - **名称**：雷德蒙客户旅程
 
@@ -55,4 +55,4 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 12. 在命令栏上，选择“保存”来保存到目前为止完成的工作。
 
-13. 在本练习中，你将了解客户旅程是 Dynamics 365 Marketing 的关键组成部分。
+13. 你的旅程已经准备好了。 要开始此旅程，在“命令栏”上选择“上线”来发布它。

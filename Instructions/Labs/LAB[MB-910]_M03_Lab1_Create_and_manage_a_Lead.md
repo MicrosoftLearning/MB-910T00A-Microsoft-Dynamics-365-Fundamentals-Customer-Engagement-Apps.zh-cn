@@ -11,7 +11,7 @@ lab:
 
 ## <a name="objectives"></a>目标
 
-During this exercise, you will be capturing a sales lead for Suzanne Burke. She recently reached out to you and is interested in some of your organization’s products and services. Not only will you be capturing the lead in the system, but you will be using the tools available in Dynamics 365 Sales to work the lead through the qualification process.
+在本练习中，你将为 Suzanne Burke 捕获销售潜在客户。 她最近与你取得了联系，并对你的组织的某些产品和服务表现出兴趣。 你不仅将在系统中捕获潜在客户，还将使用 Dynamics 365 Sales 中的工具来指导潜在客户完成鉴别流程。
 
 
 ## <a name="lab-setup"></a>实验室教学设置
@@ -52,7 +52,7 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 5. 选择命令栏上的“保存”按钮，保存新的潜在客户并让其保持打开状态。
 
-6. Notice the <bpt id="p1">**</bpt>Lead to Opportunity<ept id="p1">**</ept> Business Process Flow at the top of the record. Click the <bpt id="p1">**</bpt>Qualify Stage<ept id="p1">**</ept> to select it. Complete the stage as follows:
+6. 请注意记录顶部的“从潜在客户到机会”业务流程流。 单击“鉴别阶段”将其选中。 按如下所示完成该阶段：
 
     - 购买时间范围：本季度
 
@@ -70,13 +70,13 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 10. 单击“保存并关闭”按钮。
 
-11. Notice the <bpt id="p1">**</bpt>Initial Phone Call<ept id="p1">**</ept> activity is now displayed on the <bpt id="p2">**</bpt>Record Timeline<ept id="p2">**</ept>. Hover over the activity and select the close activity <bpt id="p1">**</bpt>Check Mark Icon<ept id="p1">**</ept> to mark the phone call as completed. 
+11. 注意，“记录日程表”上现在显示“初始电话呼叫”活动 。 将鼠标悬停在此活动上方，选择“关闭活动”复选图标，将电话呼叫标记为已完成。 
 
 12. 在“关闭电话呼叫”窗口上，选择“关闭”按钮  
 
-13. Next you will qualify the lead record.  This will create a related Opportunity record and move to the next stage of the Lead to Opportunity sales process.  On the Command Bar, select the Qualify button.  
+13. 接下来，你将鉴别潜在客户记录。  这将创建一个相关的机会记录，并进入“从潜在客户到机会”销售流程的下一阶段。  在“命令栏”上，选择“鉴别”按钮 。  
 
-14. After the system qualifies the lead, a new <bpt id="p1">**</bpt>Opportunity<ept id="p1">**</ept> record will be created, and the business process will advance to the <bpt id="p2">**</bpt>Develop<ept id="p2">**</ept> stage.  Select the <bpt id="p1">**</bpt>Qualify<ept id="p1">**</ept> stage to view the original lead record. 
+14. 系统鉴别潜在客户后，会创建新的“机会”记录，业务流程将进入“开发”阶段 。  选择“鉴别”阶段，查看原始的潜在客户记录。 
 
 15. 选择“开发”阶段，返回机会。
 
