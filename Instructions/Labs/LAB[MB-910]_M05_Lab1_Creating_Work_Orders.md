@@ -15,7 +15,7 @@ lab:
 
 ## <a name="instructions"></a>Instructions
 
-1. 打开 Dynamics 365 Field Service 应用程序。 从左侧菜单的“计划”部分选择“工作订单” 。
+1. 如果尚未打开，请打开 **Dynamics 365 Field Service** 应用程序。 从左侧菜单的“计划”部分选择“工作订单” 。
 
 2. 在“命令栏”上，选择“新建”按钮，创建新的工作订单。 
 
