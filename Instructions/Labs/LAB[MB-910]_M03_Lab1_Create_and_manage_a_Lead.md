@@ -30,15 +30,15 @@ lab:
 
     - 主题：寻找新设备 - 你的姓名首字母大写
 
-    - 名字：Suzanne
+    - **名字：** Suzanne - 你的姓名缩写
 
-    - 姓氏：Burke
+    - **姓氏：** Burke - 你的姓名缩写
 
     - 职称：CFO
 
     - 办公电话：888 555-8715
 
-    - 电子邮件地址：Suzanne@contososample.com
+    - 电子邮件地址：Suzanne.YourInitials@contososample.com
 
     - 公司：Contoso - 华盛顿
 
