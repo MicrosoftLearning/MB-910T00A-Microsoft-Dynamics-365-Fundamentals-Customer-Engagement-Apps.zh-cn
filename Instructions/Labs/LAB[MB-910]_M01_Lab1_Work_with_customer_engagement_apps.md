@@ -36,9 +36,9 @@ lab:
 
 2. 选择 WWLLABnnn 环境，其中 nnn 是数字。 这是要执行所有实验室的共享 Dynamics 365 环境。
 
-3. 单击“打开环境”
+3. 单击顶部菜单中的“打开”，或单击“WWLLABnnn 环境 URL”。
 
-4. 展开屏幕左上方位于 Power Platform 管理中心左侧的“应用启动器”domino 按钮。 选择“Dynamics 365 Marketing”应用，启动它。
+4. 选择“Marketing”应用，启动它。
 
 5. 浏览左侧的导航窗格。 可通过该窗格底部的按钮更改区域。 你当前位于“市场营销”区域。
 
