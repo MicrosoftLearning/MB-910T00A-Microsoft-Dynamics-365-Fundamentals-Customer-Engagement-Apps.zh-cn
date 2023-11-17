@@ -1,4 +1,4 @@
-# MB-910T00A：Microsoft Dynamics 365 基础知识 客户参与应用
+# MB-910T00A：Microsoft Dynamics 365 基础知识 (CRM)
 
 - **[下载最新学生手册和 AllFiles 内容](https://learningdownloadcenter.microsoft.com/)**
 - **你是 MCT 吗？** - 查看 [MCT GitHub 用户指南](https://microsoftlearning.github.io/MCT-User-Guide/)
@@ -26,9 +26,9 @@
 
 - 任何 MCT 都可向 GitHub 存储库中的代码或内容提交拉取请求，Microsoft 和课程作者将根据需要进行分流并纳入内容和实验室代码的更改。
 
-- 你可以提交 bug、更改、改进和想法。  先于我们找到了新的 Azure 功能？  提交新演示！
+- 你可以提交 bug、更改、改进和想法。  先于我们找到了新的 Azure 功能？  提交新的演示吧！
 
-## 注释
+## 说明
 
 ### 课堂材料
 
